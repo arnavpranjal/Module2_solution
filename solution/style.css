@@ -1,0 +1,66 @@
+body {
+font-style: "Times New Roman";
+
+} 
+*{
+			box-sizing: border-box;
+		}
+h1 {
+	text-align: center;
+	margin-top: 5% ;
+	font-style: "Times New Roman";
+
+}
+p{
+	color:blue ;
+	font-size: 250% ;
+}
+#box1 {
+	
+	
+	border: thin solid black ;
+	margin: 2% ;
+	background-color: red;
+	
+
+}
+#content1{
+	background-color: green ;
+	clear : right ;
+	
+
+
+
+}
+#box2 {
+	
+	border: thin solid black ;
+	
+	margin: 2% ;
+	background-color:#112200;
+
+}
+#content2{
+	background-color: #223388 ;
+	clear : right ;
+	
+
+
+
+}
+#box3 {
+	
+	
+	border: thin solid black ;
+	margin: 2% ;
+	background-color: #445500;
+
+}
+#content3{
+	background-color: #556677;
+	clear : right ;
+	
+
+
+
+}
